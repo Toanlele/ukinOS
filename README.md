@@ -1,5 +1,2 @@
 # ukinOS
-# ukinOS
-# ukinOS
-# ukinOS
-# ukinOS
+这是一个基于linux内核发行版操作系统
